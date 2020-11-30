@@ -134,7 +134,3 @@ weight = 5
 [[Languages.en.menu.footer]]
 name = "Teacher"
 url = "teacher"
-
-[[Languages.en.menu.footer]]
-name = "Scholarship"
-url = "scholarship"
