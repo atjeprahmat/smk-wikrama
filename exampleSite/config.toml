@@ -1,8 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+title = "SMK Wikrama Bogor"
 theme = "educenter-hugo"
-themesDir = "../.."
 # post pagination
 paginate = "6"
 # post excerpt
@@ -11,8 +10,6 @@ summaryLength = "10"
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
-
-
 ############################# Plugins ##############################
 
 # CSS Plugins
@@ -41,17 +38,16 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 
-
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/new-logo.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Jl. Raya Wangun No.21, RT.01/RW.06, Sindangsari, Kec. Bogor Tim., Kota Bogor"
+mobile = "(0251) 8242411"
+email = "prohumasi@smkwikrama.net"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -68,7 +64,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 [params.subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_action = "#"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
@@ -88,27 +84,17 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://web.facebook.com/smkwikrama/photos/?ref=page_internal"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/smkwikrama/"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/smk-wikrama-bogor/about/"
 
 
 ################################### English language #####################################
@@ -118,10 +104,6 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
 
 ################### English navigation ####################
 
@@ -132,45 +114,15 @@ url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
+name = "Course"
 url = "course"
 weight = 2
 
 [[Languages.en.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
+name = "Teacher"
+url = "teacher"
+weight = 2
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research"
-  
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
-  
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact"
@@ -180,26 +132,12 @@ weight = 5
 # footer menu
 
 [[Languages.en.menu.footer]]
-name = "teacher"
+name = "Teacher"
 url = "teacher"
 
 [[Languages.en.menu.footer]]
-name = "notice"
-url = "notice"
-
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event"
-
-[[Languages.en.menu.footer]]
-name = "scholarship"
+name = "Scholarship"
 url = "scholarship"
-
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research"
-
-
 
 ################################### French language #####################################
 [Languages.fr]
@@ -255,11 +193,6 @@ hasChildren = true
   parent = "Pages"
   name = "research"
   url = "research"
-  
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
   
 [[Languages.fr.menu.main]]
 name = "Contact"

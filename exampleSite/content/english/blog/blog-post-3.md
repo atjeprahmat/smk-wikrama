@@ -1,13 +1,12 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
+title: "
+PT. HSPNet Parsaoran Holds Recruitment at Wikrama"
+date: 2020-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+bg_image: "images/backgrounds/page-title-1.jpg"
 # post thumbnail
-image: "images/blog/post-3.jpg"
+image: "images/blog/post-6.jpg"
 # post author
 author: "Mark Dinn"
 # taxonomy
@@ -17,16 +16,30 @@ tags: ["Advice", "Eco"]
 type: "post"
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+Located in the Balai Krida building of SMK Wikrama Bogor, the activity was attended by David Simanjuntak and Oscar Sihotang as representatives of company recruiters, accompanied by Muslih, S.Kom. as Chairman of the Wikrama Special Job Exchange (BKK) and Didik Suryabuana, S.T. as the Chair of the TKJ Skills Competency.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Joined by 15 alumni of TKJ Wikrama, the company uses a psychological test as a stage that must be followed by participants, as stated by David Simanjuntak.
 
+"There are 3 stages of recruitment, the first is a psychological test, the second is an interview, and the third one is to sign the contract directly. In the psychological test itself there are IQ tests, personality tests and ability tests, "he said.
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+He also said that companies need workers who have a good attitude.
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+"We need workers with good soft skills, discipline, lots of initiative, and creativity. And we need those that are ready to use, according to the competencies required in TKJ, "he said.
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+Regarding facilities, he also explained.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+"After they are accepted, we will see them in the first 3 months, if they are good, we immediately contract for 1 year, in 1 year how come we will make them permanent employees. For the facilities we prepare mess, BPJS Employment, health insurance, and there are bonuses that we will give, "added David.
+
+PT. Parsaroan Global Data Trans HspNet is a Dedicated Internet Service Provider based in South Jakarta.
+
+Founded in 2006, now its branches are all over the islands of Java and Bali.
+
+Currently PT. Parsaoran continues to expand its branches and requires more than 1000 new workers in 2021.
+
+Muslih, S.Kom. Conveyed, SMK Wikrama continues to strive to provide work-ready graduates for companies in Indonesia.
+
+"We will continue to contribute, prepare graduates according to industry needs. We want the industry with us (schools) to "mass marry" in every class, so everything we do in class or in the laboratory is what is done in industry / company, "he explained.
+
+He also added the importance of mutual cooperation of all parties to provide quality graduates in terms of soft skills and hard skills.
+
+"There must be integration of the various elements involved, schools, government, students, parents, and companies, that's what we are trying to do. Elemental quality is also very important, "he concluded.

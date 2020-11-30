@@ -1,11 +1,11 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/smk.jpg"
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "There is no learning community without Vission School Leadership"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,63 +15,46 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Wikrama's Values"
+      content : "SMK Wikrama emphasizes honesty in all aspects, be it honest in acting, thinking, or speaking. Honest in acting and speaking starts with ourselves because through ourselves we can first tell others to be right. Being honest is a habit. If honesty is made a habit, it will make a person's life more orderly and not make mistakes in a state of being left unattended."
       animation_in : "left"
       animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact"
-
 
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/banner-1.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Scholarship"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Scholarships that are intended for students who excel at the school, are automatically awarded to students who are ranked 1st in each department."
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Competence"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Communication skill, Adaptibility skill (fast learner), Time management skill, Collaboration skill, Typing & Computer skill"
 
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "SMK Wikrama Bogor was chosen to be the Learning Center in the 2019 Multimedia Teacher Competency Improvement activity"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Partnership"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "SMK Wikrama Bogor is trying to become an institution that plays a role in optimizing the distribution of SMK graduates and a source of information for job seekers."
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
-  image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+  title : "Discover Wikrama"
+  image : "images/about/about-us-1.jpg"
+  content : "To become a national exemplary vocational school with an environmental culture, national character, based on information technology and capable of meeting the needs of the world of work.
 
 
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  By being committed to customer satisfaction, laws and regulations, quality management systems, and continuous improvement, SMK Wikrama produces competent graduates and efficient school outputs. "
   button:
     enable : true
     label : "Learn more"
@@ -100,19 +83,17 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "This school is an extraordinary school with a variety of uniqueness that cannot be found in other schools. This school has high standards, so that its graduates are able to compete in the world of work with S1 graduates even with professionals although not in all respects. This school teaches many things, but the most important thing is this school teaches us to be leaders wherever we are. Hopefully this school will be more successful and progress until it goes international.
+
+  - Arie Ridwansyah, PT. GITS Indonesia, Android Developer"
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  video_link : "https://youtu.be/UqJxOVve2h4"
 
 
 ############################# event ################################
-event:
-  enable : true
-  title : "Upcoming Events"
+# event:
+#   enable : true
+#   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
   

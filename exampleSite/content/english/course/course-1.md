@@ -1,23 +1,17 @@
 ---
-title: "Photography"
+title: "Software Engineer"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title-1.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Software Engineer is someone who has the special ability to write and design programs that use programming languages."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/course-7.jpg"
 # taxonomy
-category: "Photography"
+category: "Software Engineer"
 # teacher
-teacher: "Clark Malik"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
+teacher: "Juliana Mansur"
 # apply url
 apply_url : "#"
 # type
@@ -25,47 +19,18 @@ type: "course"
 ---
 
 
-### About Course
+### About Software Engineer
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+Software Engineer is someone who has the special ability to write and design programs that use programming languages. Meanwhile, a software engineer is someone who has the ability to design, implement and analyze software.
 
-### Requirements
+### Expertise:
 
-
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Have the ability to explain and apply basic mathematics and computer science as the basis for building quality software.
+Have the ability to explain, apply, and select various theories, models, techniques and technologies that are appropriate in building quality software in web, desktop and mobile based environments.
+Design web, desktop and mobile based software solutions of varying complexity scales that integrate ethical, social, legal, security and economic issues.
+Skilled in using the latest technology and tools in building quality software in web and mobile based environments.
+Applying professionalism in work in accordance with the ethics of Software Engineering.
+Communicate effectively to various groups both orally and in writing.
+Keep up with the development of various new techniques, technologies and tools in software engineering in web, desktop and mobile based environments.
+Cooperate effectively as both a team member and team leader on software development projects.
+Identify the need to become an entrepreneur / businessman in the creative industry, especially in software development.
